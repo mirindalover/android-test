@@ -1,0 +1,17 @@
+bin
+gen
+out
+
+*.iml
+.idea
+classes
+
+.DS_Store
+
+captures
+.externalNativeBuild
+
+#Gradle
+.gradle
+build
+local.properties
